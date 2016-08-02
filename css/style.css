@@ -86,3 +86,10 @@
 	text-shadow: 2px 2px silver;
 }
 
+.reasons {
+	width: 900px;
+	font-size: 20px;
+	text-align: left;
+	margin: 10px 0 30px 0;
+}
+
