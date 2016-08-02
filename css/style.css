@@ -19,7 +19,7 @@
 
 .header p {
 	font-family: 'Roboto', sans-serif;
-	font-size: 80px;
+	font-size: 100px;
 }
 
 .mission {
@@ -54,6 +54,7 @@
 	height: 300px;
 	display: inline-block;
 	vertical-align: top;
+	font-size: 15px;
 }
 
 .box2 img {
