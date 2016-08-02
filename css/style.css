@@ -15,6 +15,7 @@
 
 .alere {
 	margin: 0 auto;
+	text-shadow: 2px 2px silver;
 }
 
 .header p {
@@ -22,14 +23,17 @@
 	font-size: 100px;
 }
 
+.connect {
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	margin-bottom: 20px;
+	text-shadow: 2px 2px silver;
+}
+
 .mission {
 	height: 400px;
 	background: url(../img/hands.jpg);
 	background-size: 100% 400px;
-}
-
-.boxes {
-	margin-top: 20px;
 }
 
 .boxes p {
@@ -74,3 +78,11 @@
 	height: 282px;
 	border-radius: 20px;
 }
+
+.why {
+	margin-top: 160px;
+	font-family: 'Pacifico', cursive;
+	font-size: 50px;
+	text-shadow: 2px 2px silver;
+}
+
